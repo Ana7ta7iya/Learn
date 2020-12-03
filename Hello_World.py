@@ -1,4 +1,4 @@
 print("Hello World")
 print("hello wonderful experience ")
-print(a, b)
-print(a != B)
+print("let me be")
+print("no morer tears")
